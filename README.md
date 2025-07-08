@@ -21,37 +21,43 @@ I'm a B.Tech Computer Science (AI/ML) student, passionate about full-stack devel
 
 🎤 InterVista
 
-A full-stack AI-powered mock interview platform designed to help users practice technical interviews. Built using ReactJS for the frontend and integrated with OpenAI's API
- for dynamic question generation and real-time feedback. The app 
-customizes questions based on user input and helps improve communication
- and problem-solving skills through instant evaluations.
+AI-powered mock interview platform built using ReactJS and OpenAI API.
+ It generates personalized interview questions and provides real-time 
+feedback to help users improve communication and problem-solving skills.
+
+🔗 GitHub Repo
 
 
 
 
 🩺 AI Health Assistant
 
-An interactive AI-based health diagnosis system that predicts possible diseases from user-reported symptoms. Utilizes a Random Forest machine learning model trained on a medical dataset to suggest relevant conditions. Built using Streamlit,
- the app provides real-time predictions, preventive advice, and a clean,
- intuitive user interface—making health insights more accessible and 
-user-friendly.
+AI-based health prediction web app that suggests possible diseases based on user symptoms using a trained Random Forest model. Built with Streamlit for real-time interaction, and designed to deliver quick health insights with preventive advice.
+
+🔗 GitHub Repo
 
 
 
 
 🎵 RaagaFusion
 
-A responsive music web application that allows users to browse and filter songs by genre and mood. Built using ReactJS, with features like lazy loading, dynamic routing, and audio playback controls. Optimized for performance and user experience with clean animations and fast load times. Deployed on Vercel for seamless accessibility.
+A modern music streaming web app with category-based filtering, lazy loading, and smooth performance. Developed using ReactJS and deployed on Vercel for a fast and responsive user experience.
+
+🔗 Live App | GitHub Repo
 
 
 
 
 💝 Compassion.net
 
-A secure and scalable online donation platform developed using the MERN stack (MongoDB, Express.js, React, Node.js). Integrated Razorpay
- for real-time payment processing. Designed a clean UI and user flow 
-that makes donating easy and transparent. The platform supports multiple
- donation categories and is structu
+A secure and scalable donation platform built with the MERN stack and integrated with Razorpay
+ for real-time payment processing. Features include simple navigation, 
+real-time feedback, and a trustworthy interface for charitable 
+contributions.
+
+🔗 GitHub Repo
+
+
 ## 🌱 Currently Exploring
 
 - Advanced React Patterns  
