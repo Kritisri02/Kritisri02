@@ -17,45 +17,36 @@ I'm a B.Tech Computer Science (AI/ML) student, passionate about full-stack devel
 🚀 Projects
 
 
-
-
 🎤 InterVista
 
-AI-powered mock interview platform built using ReactJS and OpenAI API.
- It generates personalized interview questions and provides real-time 
-feedback to help users improve communication and problem-solving skills.
 
-🔗 GitHub Repo
+AI-powered mock interview platform built with ReactJS and OpenAI API.
 
+Generates role-specific questions and provides real-time feedback to help users prepare for technical interviews.
 
-
+🔗 GitHub Repository
 
 🩺 AI Health Assistant
 
-AI-based health prediction web app that suggests possible diseases based on user symptoms using a trained Random Forest model. Built with Streamlit for real-time interaction, and designed to deliver quick health insights with preventive advice.
+Symptom-based disease prediction web app using a Random Forest model and Streamlit.
 
-🔗 GitHub Repo
+Offers real-time health insights and preventive suggestions through a simple, interactive interface.
 
-
-
+🔗 GitHub Repository
 
 🎵 RaagaFusion
 
-A modern music streaming web app with category-based filtering, lazy loading, and smooth performance. Developed using ReactJS and deployed on Vercel for a fast and responsive user experience.
+Modern music web app built using ReactJS with features like category filtering and lazy loading.
+Deployed on Vercel for high performance and fast load times.
 
-🔗 Live App | GitHub Repo
-
-
-
+🔗 Live Demo • GitHub Repository
 
 💝 Compassion.net
 
-A secure and scalable donation platform built with the MERN stack and integrated with Razorpay
- for real-time payment processing. Features include simple navigation, 
-real-time feedback, and a trustworthy interface for charitable 
-contributions.
+Donation platform built with the MERN stack and integrated with Razorpay for secure payments.
+Focused on simplicity, real-time transactions, and a user-friendly donation experience.
 
-🔗 GitHub Repo
+🔗 GitHub Repository
 
 
 ## 🌱 Currently Exploring
