@@ -14,15 +14,44 @@ I'm a B.Tech Computer Science (AI/ML) student, passionate about full-stack devel
 - 💡 **Other Skills:** Problem Solving, Team Collaboration, Adaptability
 
 ---
+🚀 Projects
 
-## 🚀 Projects
 
-- 🎤 [**InterVista**](https://github.com/Kritisri02/InterVista-AI-Mock-Interview) – AI-based mock interview platform using ReactJS, Flask, and OpenAI API for real-time question generation and feedback.
-- 🎵 [**RaagaFusion**](https://raaga-fusion.vercel.app/) – A music web app with category filtering, lazy loading, and performance optimizations.  
-- 💝 [**Compassion.net**](https://github.com/Kritisri02/compassion.net) – Secure donation platform with Razorpay integration and a scalable MERN stack backend.
 
----
 
+🎤 InterVista
+
+A full-stack AI-powered mock interview platform designed to help users practice technical interviews. Built using ReactJS for the frontend and integrated with OpenAI's API
+ for dynamic question generation and real-time feedback. The app 
+customizes questions based on user input and helps improve communication
+ and problem-solving skills through instant evaluations.
+
+
+
+
+🩺 AI Health Assistant
+
+An interactive AI-based health diagnosis system that predicts possible diseases from user-reported symptoms. Utilizes a Random Forest machine learning model trained on a medical dataset to suggest relevant conditions. Built using Streamlit,
+ the app provides real-time predictions, preventive advice, and a clean,
+ intuitive user interface—making health insights more accessible and 
+user-friendly.
+
+
+
+
+🎵 RaagaFusion
+
+A responsive music web application that allows users to browse and filter songs by genre and mood. Built using ReactJS, with features like lazy loading, dynamic routing, and audio playback controls. Optimized for performance and user experience with clean animations and fast load times. Deployed on Vercel for seamless accessibility.
+
+
+
+
+💝 Compassion.net
+
+A secure and scalable online donation platform developed using the MERN stack (MongoDB, Express.js, React, Node.js). Integrated Razorpay
+ for real-time payment processing. Designed a clean UI and user flow 
+that makes donating easy and transparent. The platform supports multiple
+ donation categories and is structu
 ## 🌱 Currently Exploring
 
 - Advanced React Patterns  
